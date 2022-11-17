@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(11, 179, 190);
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#titulo {
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+
+.modoSpin {
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: olive;
+}
+
+#resUno {
+    background-color: beige;
+    border-color: black;
+    font-size: large;
+    padding: 8px;
+    text-align: center;
+    border-radius: 2px;
+    border-style: solid;
+}
